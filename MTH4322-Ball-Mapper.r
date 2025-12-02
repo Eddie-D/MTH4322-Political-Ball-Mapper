@@ -50,3 +50,16 @@ for (p in party_names) {
   m <- image_animate(m)
   m <- image_write(m, paste0("./Gifs/", p, ".gif"))
 }
+
+plot_for_epsilon <- function(e, p) {
+  epsilon <- e / 100
+  coloring <- pts[p]
+  graph <- BallMapper(parties, coloring, epsilon)
+  ColorIgraphPlot(graph, store_in_file = paste0("./", p, "-", e, ".jpg"))
+  return (graph)
+  # coloredDynamicNetwork(graph)
+}
+
+# Recreate graphs with values of epsilon
+# graph <- plot_for_epsilon(63, "Conservative")
+# graphs <- lapply(party_names, plot_for_epsilon, e = 63)
