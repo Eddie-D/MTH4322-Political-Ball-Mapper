@@ -10,7 +10,7 @@ names(csv) <- make.names(names(csv))
 # Use this step to apply procedures to normalise points
 pts <- csv
 
-# Create constituency-agree chart
+# CONSTITUENCY AGREE CHART -------------------------------------------------
 par(mar = c(5, 10, 4, 2))  # bottom, left, top, right margins
 barplot(pts$Agree,
         names.arg = pts$Region,
@@ -22,22 +22,17 @@ barplot(pts$Agree,
         las = 1,
         xlim = c(0, max(csv$Agree) * 1.1)) # extend x-axis by 10%
 
+
+# PARTY BALL MAPPER ANALYSIS -----------------------------------------------
 # Extract the parties
-parties <- subset(pts, select = c(Labour,
-                                  Conservative,
-                                  Liberal.Democrat,
-                                  Plaid.Cymru))
+party_names = c("Labour", "Conservative", "Liberal.Democrat", "Plaid.Cymru")
+parties <- pts[party_names]
 parties <- normalize_to_min_0_max_1(parties)
 
-# Run the desired colouring
-color_by <- "Labour"
-color_by <- "Conservative"
-color_by <- "Liberal.Democrat"
-color_by <- "Plaid.Cymru"
-
-coloring <- data.frame(pts[[color_by]])
-
-graph <- BallMapper(parties, coloring, .20)
-ColorIgraphPlot(graph, store_in_file = paste("./", color_by, ".png"))
-print(graph)
-coloredDynamicNetwork(graph)
+# Create a graph for each party's colouring
+for (p in party_names) {
+  coloring <- pts[p]
+  graph <- BallMapper(parties, coloring, .20)
+  ColorIgraphPlot(graph, store_in_file = paste("./", p, ".png"))
+  # coloredDynamicNetwork(graph)
+}
