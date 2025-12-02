@@ -26,18 +26,25 @@ barplot(pts$Agree,
 # pts[-1] <- normalize_to_min_0_max_1(pts[-1])
 
 # Extract the parties
-party_names = c("Labour", "Conservative", "Liberal.Democrat", "Plaid.Cymru")
+party_names = c("Referendum", "Labour", "Conservative", "Liberal.Democrat", "Plaid.Cymru")
+# Create image directories
+lapply(party_names, dir.create)
 parties <- pts[party_names]
 parties <- normalize_to_min_0_max_1(parties)
 
 # Create graphs for each party's colouring and a gif to show changes with epsilon
-for (p in party_names) {
-  for (e in 1:100) {
+for (e in 1:100) {
+  for (p in party_names) {
+    epsilon <- e / 100
     coloring <- pts[p]
-    graph <- BallMapper(parties, coloring, (e/100))
+    graph <- BallMapper(parties, coloring, epsilon)
     ColorIgraphPlot(graph, store_in_file = paste0("./", p, "/", e, ".jpg"))
     # coloredDynamicNetwork(graph)
   }
+}
+
+# Create gifs
+for (p in party_names) {
   m <- image_read(paste0("./", p, "/", 1:100, ".jpg"))
   m <- image_animate(m)
   m <- image_write(m, paste0("./", p, ".gif"))
