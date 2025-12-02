@@ -44,8 +44,9 @@ for (e in 1:100) {
 }
 
 # Create gifs
+dir.create("Gifs")
 for (p in party_names) {
   m <- image_read(paste0("./", p, "/", 1:100, ".jpg"))
   m <- image_animate(m)
-  m <- image_write(m, paste0("./", p, ".gif"))
+  m <- image_write(m, paste0("./Gifs/", p, ".gif"))
 }
