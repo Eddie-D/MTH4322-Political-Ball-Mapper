@@ -25,7 +25,7 @@ barplot(pts$Agree,
 # Normalise all but the string column (regions)
 
 # Extract the parties
-party_names = c("Referendum", "Labour", "Conservative", "Liberal.Democrat", "Plaid.Cymru")
+party_names = c("Agree", "Labour", "Conservative", "Liberal.Democrat", "Plaid.Cymru")
 # Create image directories
 lapply(party_names, dir.create)
 party_data <- pts[party_names]
