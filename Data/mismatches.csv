@@ -1,0 +1,772 @@
+,Constituency Name,Areas,_merge
+2,,Aberdeen Central,right_only
+3,,Aberdeen Donside,right_only
+4,Aberdeen North,,left_only
+5,Aberdeen South,,left_only
+6,,Aberdeen South and North Kincardine,right_only
+7,,Aberdeenshire East,right_only
+8,,Aberdeenshire West,right_only
+9,Aberdeenshire West & Kincardine,,left_only
+10,,Adur,right_only
+11,Airdrie & Shotts,,left_only
+12,,Airdrie and Shotts,right_only
+13,Aldershot,,left_only
+14,Aldridge-Brownhills,,left_only
+15,,Allerdale,right_only
+16,,Almond Valley,right_only
+17,Altrincham & Sale West,,left_only
+18,Alyn & Deeside,,left_only
+19,,Alyn and Deeside,right_only
+21,Angus,,left_only
+22,,Angus North and Mearns,right_only
+23,,Angus South,right_only
+25,Argyll & Bute,,left_only
+26,,Argyll and Bute,right_only
+27,,Arun,right_only
+28,Arundel & South Downs,,left_only
+31,Ashton Under Lyne,,left_only
+32,Aylesbury,,left_only
+33,,Aylesbury Vale,right_only
+34,,Ayr,right_only
+35,"Ayr, Carrick & Cumnock",,left_only
+36,Ayrshire Central,,left_only
+37,Ayrshire North & Arran,,left_only
+38,,Babergh,right_only
+39,Banbury,,left_only
+40,Banff & Buchan,,left_only
+41,,Banffshire and Buchan Coast,right_only
+42,Barking,,left_only
+43,,Barking and Dagenham,right_only
+44,,Barnet,right_only
+45,,Barnsley,right_only
+46,Barnsley Central,,left_only
+47,Barnsley East,,left_only
+48,Barrow & Furness,,left_only
+49,,Barrow-in-Furness,right_only
+50,,Basildon,right_only
+51,Basildon & Billericay,,left_only
+52,Basildon South & Thurrock East,,left_only
+53,Basingstoke,,left_only
+54,,Basingstoke and Deane,right_only
+56,Bath,,left_only
+57,,Bath and North East Somerset,right_only
+58,Batley & Spen,,left_only
+59,Battersea,,left_only
+60,Beaconsfield,,left_only
+61,Beckenham,,left_only
+63,Bedfordshire Mid,,left_only
+64,Bedfordshire North East,,left_only
+65,Bedfordshire South West,,left_only
+66,Bermondsey & Old Southwark,,left_only
+67,Berwick-upon-Tweed,,left_only
+68,"Berwickshire, Roxburgh & Selkirk",,left_only
+69,Bethnal Green & Bow,,left_only
+70,Beverley & Holderness,,left_only
+71,Bexhill & Battle,,left_only
+72,,Bexley,right_only
+73,Bexleyheath & Crayford,,left_only
+74,Birkenhead,,left_only
+75,,Birmingham,right_only
+76,Birmingham Edgbaston,,left_only
+77,Birmingham Erdington,,left_only
+78,Birmingham Hall Green,,left_only
+79,Birmingham Hodge Hill,,left_only
+80,Birmingham Ladywood,,left_only
+81,Birmingham Northfield,,left_only
+82,Birmingham Perry Barr,,left_only
+83,Birmingham Selly Oak,,left_only
+84,Birmingham Yardley,,left_only
+85,Bishop Auckland,,left_only
+86,,Blaby,right_only
+87,Blackburn,,left_only
+88,,Blackburn with Darwen,right_only
+89,Blackley & Broughton,,left_only
+90,,Blackpool,right_only
+91,Blackpool North & Cleveleys,,left_only
+92,Blackpool South,,left_only
+94,Blaydon,,left_only
+95,Blyth Valley,,left_only
+96,Bognor Regis & Littlehampton,,left_only
+98,,Bolton,right_only
+99,Bolton North East,,left_only
+100,Bolton South East,,left_only
+101,Bolton West,,left_only
+102,Bootle,,left_only
+103,,Boston,right_only
+104,Boston & Skegness,,left_only
+105,Bosworth,,left_only
+106,,Bournemouth,right_only
+107,Bournemouth East,,left_only
+108,Bournemouth West,,left_only
+109,Bracknell,,left_only
+110,,Bracknell Forest,right_only
+111,,Bradford,right_only
+112,Bradford East,,left_only
+113,Bradford South,,left_only
+114,Bradford West,,left_only
+116,,Breckland,right_only
+117,Brecon & Radnorshire,,left_only
+118,,Brecon and Radnorshire,right_only
+119,,Brent,right_only
+120,Brent Central,,left_only
+121,Brent North,,left_only
+122,Brentford & Isleworth,,left_only
+123,,Brentwood,right_only
+124,Brentwood & Ongar,,left_only
+126,Bridgwater & Somerset West,,left_only
+127,Brigg & Goole,,left_only
+128,Brighton Kemptown,,left_only
+129,Brighton Pavilion,,left_only
+130,,Brighton and Hove,right_only
+131,,Bristol,right_only
+132,Bristol East,,left_only
+133,Bristol North West,,left_only
+134,Bristol South,,left_only
+135,Bristol West,,left_only
+137,,Bromley,right_only
+138,Bromley & Chislehurst,,left_only
+142,Buckingham,,left_only
+144,Burton,,left_only
+145,,Bury,right_only
+146,Bury North,,left_only
+147,Bury South,,left_only
+148,Bury St Edmunds,,left_only
+150,"Caithness, Sutherland & Easter Ross",,left_only
+151,,"Caithness, Sutherland and Ross",right_only
+152,Calder Valley,,left_only
+153,,Calderdale,right_only
+154,Camberwell & Peckham,,left_only
+155,Camborne & Redruth,,left_only
+157,Cambridgeshire North East,,left_only
+158,Cambridgeshire North West,,left_only
+159,Cambridgeshire South,,left_only
+160,Cambridgeshire South East,,left_only
+161,,Camden,right_only
+166,Cardiff South & Penarth,,left_only
+167,,Cardiff South and Penarth,right_only
+170,Carmarthen East & Dinefwr,,left_only
+171,,Carmarthen East and Dinefwr,right_only
+172,Carmarthen West & Pembrokeshire South,,left_only
+173,,Carmarthen West and South Pembrokeshire,right_only
+174,,"Carrick, Cumnock and Doon Valley",right_only
+175,Carshalton & Wallington,,left_only
+177,,Central Bedfordshire,right_only
+180,Chatham & Aylesford,,left_only
+181,Cheadle,,left_only
+183,Chelsea & Fulham,,left_only
+185,,Cherwell,right_only
+186,Chesham & Amersham,,left_only
+187,,Cheshire East,right_only
+188,,Cheshire West and Chester,right_only
+189,"Chester, City of",,left_only
+192,,Chiltern,right_only
+193,Chingford & Woodford Green,,left_only
+194,Chippenham,,left_only
+195,Chipping Barnet,,left_only
+198,Cities of London & Westminster,,left_only
+199,,City of London,right_only
+200,,Clackmannanshire and Dunblane,right_only
+201,Clacton,,left_only
+202,Cleethorpes,,left_only
+205,,Clydebank and Milngavie,right_only
+206,,Clydesdale,right_only
+207,,Coatbridge and Chryston,right_only
+208,"Coatbridge, Chryston & Bellshill",,left_only
+210,Colne Valley,,left_only
+211,Congleton,,left_only
+214,,Cornwall,right_only
+215,Cornwall North,,left_only
+216,Cornwall South East,,left_only
+217,,Cotswold,right_only
+218,"Cotswolds, The",,left_only
+219,,Coventry,right_only
+220,Coventry North East,,left_only
+221,Coventry North West,,left_only
+222,Coventry South,,left_only
+223,,Cowdenbeath,right_only
+224,,Craven,right_only
+226,Crewe & Nantwich,,left_only
+227,,Croydon,right_only
+228,Croydon Central,,left_only
+229,Croydon North,,left_only
+230,Croydon South,,left_only
+231,,Cumbernauld and Kilsyth,right_only
+232,"Cumbernauld, Kilsyth & Kirkintilloch East",,left_only
+233,,Cunninghame North,right_only
+234,,Cunninghame South,right_only
+236,,Dacorum,right_only
+237,Dagenham & Rainham,,left_only
+242,Denton & Reddish,,left_only
+243,,Derby,right_only
+244,Derby North,,left_only
+245,Derby South,,left_only
+247,Derbyshire Mid,,left_only
+248,Derbyshire North East,,left_only
+249,Derbyshire South,,left_only
+250,Devizes,,left_only
+251,Devon Central,,left_only
+252,Devon East,,left_only
+253,Devon North,,left_only
+254,Devon South West,,left_only
+255,Devon West & Torridge,,left_only
+256,Dewsbury,,left_only
+257,Don Valley,,left_only
+258,,Doncaster,right_only
+259,Doncaster Central,,left_only
+260,Doncaster North,,left_only
+261,Dorset Mid & Poole North,,left_only
+262,Dorset North,,left_only
+263,Dorset South,,left_only
+264,Dorset West,,left_only
+266,,Dudley,right_only
+267,Dudley North,,left_only
+268,Dudley South,,left_only
+269,Dulwich & West Norwood,,left_only
+270,,Dumbarton,right_only
+271,Dumfries & Galloway,,left_only
+272,,Dumfriesshire,right_only
+273,"Dumfriesshire, Clydesdale & Tweeddale",,left_only
+274,Dunbartonshire East,,left_only
+275,Dunbartonshire West,,left_only
+276,,Dundee City East,right_only
+277,,Dundee City West,right_only
+278,Dundee East,,left_only
+279,Dundee West,,left_only
+280,,Dunfermline,right_only
+281,Dunfermline & Fife West,,left_only
+282,,Durham,right_only
+283,Durham North,,left_only
+284,Durham North West,,left_only
+285,"Durham, City of",,left_only
+287,,Ealing,right_only
+288,Ealing Central & Acton,,left_only
+289,Ealing North,,left_only
+290,Ealing Southall,,left_only
+291,Easington,,left_only
+292,,East Cambridgeshire,right_only
+293,,East Devon,right_only
+294,,East Dorset,right_only
+295,East Ham,,left_only
+296,,East Hampshire,right_only
+297,,East Hertfordshire,right_only
+298,,East Kilbride,right_only
+299,"East Kilbride, Strathaven & Lesmahagow",,left_only
+300,,East Lindsey,right_only
+302,,East Northamptonshire,right_only
+303,,East Riding of Yorkshire,right_only
+304,,East Staffordshire,right_only
+307,,Eastwood,right_only
+308,Eddisbury,,left_only
+309,,Eden,right_only
+310,,Edinburgh Central,right_only
+311,Edinburgh East,,left_only
+312,,Edinburgh Eastern,right_only
+313,Edinburgh North & Leith,,left_only
+314,,Edinburgh Northern and Leith,right_only
+315,,Edinburgh Pentlands,right_only
+317,Edinburgh South West,,left_only
+319,Edmonton,,left_only
+320,Ellesmere Port & Neston,,left_only
+321,,Elmbridge,right_only
+322,Elmet & Rothwell,,left_only
+323,Eltham,,left_only
+324,,Enfield,right_only
+325,Enfield North,,left_only
+326,Enfield Southgate,,left_only
+328,Epsom & Ewell,,left_only
+329,,Epsom and Ewell,right_only
+331,Erith & Thamesmead,,left_only
+332,Esher & Walton,,left_only
+333,,"Ettrick, Roxburgh and Berwickshire",right_only
+335,Falkirk,,left_only
+336,,Falkirk East,right_only
+337,,Falkirk West,right_only
+339,Faversham & Kent Mid,,left_only
+340,Feltham & Heston,,left_only
+341,,Fenland,right_only
+342,Fife North East,,left_only
+343,Filton & Bradley Stoke,,left_only
+344,Finchley & Golders Green,,left_only
+345,Folkestone & Hythe,,left_only
+346,,Forest Heath,right_only
+349,Gainsborough,,left_only
+350,,Galloway and West Dumfries,right_only
+351,Garston & Halewood,,left_only
+354,Gillingham & Rainham,,left_only
+355,,Glasgow Anniesland,right_only
+356,,Glasgow Cathcart,right_only
+357,Glasgow Central,,left_only
+358,Glasgow East,,left_only
+359,,Glasgow Kelvin,right_only
+360,,Glasgow Maryhill and Springburn,right_only
+361,Glasgow North,,left_only
+362,Glasgow North East,,left_only
+363,Glasgow North West,,left_only
+364,,Glasgow Pollok,right_only
+365,,Glasgow Provan,right_only
+366,,Glasgow Shettleston,right_only
+367,Glasgow South,,left_only
+368,Glasgow South West,,left_only
+369,,Glasgow Southside,right_only
+370,Glenrothes,,left_only
+372,Gordon,,left_only
+375,Grantham & Stamford,,left_only
+377,Great Grimsby,,left_only
+379,,Greenock and Inverclyde,right_only
+380,,Greenwich,right_only
+381,Greenwich & Woolwich,,left_only
+383,,Hackney,right_only
+384,Hackney North & Stoke Newington,,left_only
+385,Hackney South & Shoreditch,,left_only
+386,Halesowen & Rowley Regis,,left_only
+387,Halifax,,left_only
+388,Haltemprice & Howden,,left_only
+390,,Hambleton,right_only
+391,,"Hamilton, Larkhall and Stonehouse",right_only
+392,Hammersmith,,left_only
+393,,Hammersmith and Fulham,right_only
+394,Hampshire East,,left_only
+395,Hampshire North East,,left_only
+396,Hampshire North West,,left_only
+397,Hampstead & Kilburn,,left_only
+399,,Haringey,right_only
+401,,Harrogate,right_only
+402,Harrogate & Knaresborough,,left_only
+403,,Harrow,right_only
+404,Harrow East,,left_only
+405,Harrow West,,left_only
+406,,Hart,right_only
+408,Harwich & Essex North,,left_only
+409,,Hastings,right_only
+410,Hastings & Rye,,left_only
+412,,Havering,right_only
+413,Hayes & Harlington,,left_only
+414,Hazel Grove,,left_only
+415,Hemel Hempstead,,left_only
+416,Hemsworth,,left_only
+417,Hendon,,left_only
+418,Henley,,left_only
+419,Hereford & Herefordshire South,,left_only
+420,,Herefordshire,right_only
+421,Herefordshire North,,left_only
+422,Hertford & Stortford,,left_only
+423,Hertfordshire North East,,left_only
+424,Hertfordshire South West,,left_only
+426,Hexham,,left_only
+427,Heywood & Middleton,,left_only
+429,,Hillingdon,right_only
+430,,Hinckley and Bosworth,right_only
+431,Hitchin & Harpenden,,left_only
+432,Holborn & St Pancras,,left_only
+433,Hornchurch & Upminster,,left_only
+434,Hornsey & Wood Green,,left_only
+436,Houghton & Sunderland South,,left_only
+437,,Hounslow,right_only
+438,Hove,,left_only
+439,Huddersfield,,left_only
+440,Hull East,,left_only
+441,Hull North,,left_only
+442,Hull West & Hessle,,left_only
+443,Huntingdon,,left_only
+444,,Huntingdonshire,right_only
+446,Ilford North,,left_only
+447,Ilford South,,left_only
+448,Inverclyde,,left_only
+449,,Inverness and Nairn,right_only
+450,"Inverness, Nairn, Badenoch & Strathspey",,left_only
+453,,Isles of Scilly,right_only
+454,,Islington,right_only
+455,Islington North,,left_only
+456,Islington South & Finsbury,,left_only
+458,Jarrow,,left_only
+459,Keighley,,left_only
+460,Kenilworth & Southam,,left_only
+461,Kensington,,left_only
+462,,Kensington and Chelsea,right_only
+464,Kilmarnock & Loudoun,,left_only
+465,,Kilmarnock and Irvine Valley,right_only
+466,,King's Lynn and West Norfolk,right_only
+467,Kingston & Surbiton,,left_only
+468,,Kingston upon Hull,right_only
+469,,Kingston upon Thames,right_only
+470,Kingswood,,left_only
+471,,Kirkcaldy,right_only
+472,Kirkcaldy & Cowdenbeath,,left_only
+473,,Kirklees,right_only
+475,,Lambeth,right_only
+476,Lanark & Hamilton East,,left_only
+477,Lancashire West,,left_only
+478,,Lancaster,right_only
+479,Lancaster & Fleetwood,,left_only
+480,,Leeds,right_only
+481,Leeds Central,,left_only
+482,Leeds East,,left_only
+483,Leeds North East,,left_only
+484,Leeds North West,,left_only
+485,Leeds West,,left_only
+486,,Leicester,right_only
+487,Leicester East,,left_only
+488,Leicester South,,left_only
+489,Leicester West,,left_only
+490,Leicestershire North West,,left_only
+491,Leicestershire South,,left_only
+492,Leigh,,left_only
+494,,Lewisham,right_only
+495,Lewisham Deptford,,left_only
+496,Lewisham East,,left_only
+497,Lewisham West & Penge,,left_only
+498,Leyton & Wanstead,,left_only
+501,,Linlithgow,right_only
+502,Linlithgow & Falkirk East,,left_only
+503,,Liverpool,right_only
+504,Liverpool Riverside,,left_only
+505,Liverpool Walton,,left_only
+506,Liverpool Wavertree,,left_only
+507,Liverpool West Derby,,left_only
+508,Livingston,,left_only
+510,Loughborough,,left_only
+511,Louth & Horncastle,,left_only
+512,Ludlow,,left_only
+513,,Luton,right_only
+514,Luton North,,left_only
+515,Luton South,,left_only
+516,Macclesfield,,left_only
+517,Maidenhead,,left_only
+518,,Maidstone,right_only
+519,Maidstone & The Weald,,left_only
+520,Makerfield,,left_only
+522,,Malvern Hills,right_only
+523,,Manchester,right_only
+524,Manchester Central,,left_only
+525,Manchester Gorton,,left_only
+526,Manchester Withington,,left_only
+528,,Medway,right_only
+529,,Melton,right_only
+530,,Mendip,right_only
+531,Meon Valley,,left_only
+532,Meriden,,left_only
+533,Merthyr Tydfil & Rhymney,,left_only
+534,,Merthyr Tydfil and Rhymney,right_only
+535,,Merton,right_only
+536,,Mid Devon,right_only
+537,,Mid Fife and Glenrothes,right_only
+538,,Mid Suffolk,right_only
+539,,Mid Sussex,right_only
+541,Middlesbrough South & Cleveland East,,left_only
+542,Midlothian,,left_only
+543,,Midlothian North and Musselburgh,right_only
+544,,"Midlothian South, Tweeddale and Lauderdale",right_only
+545,,Milton Keynes,right_only
+546,Milton Keynes North,,left_only
+547,Milton Keynes South,,left_only
+548,Mitcham & Morden,,left_only
+553,Morecambe & Lunesdale,,left_only
+554,Morley & Outwood,,left_only
+555,Motherwell & Wishaw,,left_only
+556,,Motherwell and Wishaw,right_only
+557,,Na h-Eileanan an Iar,right_only
+558,Na h-Eileanan an Iar (Western Isles),,left_only
+560,,New Forest,right_only
+561,New Forest East,,left_only
+562,New Forest West,,left_only
+563,Newark,,left_only
+564,,Newark and Sherwood,right_only
+565,Newbury,,left_only
+566,,Newcastle upon Tyne,right_only
+567,Newcastle upon Tyne Central,,left_only
+568,Newcastle upon Tyne East,,left_only
+569,Newcastle upon Tyne North,,left_only
+571,,Newham,right_only
+574,Newton Abbot,,left_only
+575,Norfolk Mid,,left_only
+576,Norfolk North,,left_only
+577,Norfolk North West,,left_only
+578,Norfolk South,,left_only
+579,Norfolk South West,,left_only
+580,"Normanton, Pontefract & Castleford",,left_only
+581,,North Devon,right_only
+582,,North Dorset,right_only
+583,,North East Derbyshire,right_only
+584,,North East Fife,right_only
+585,,North East Lincolnshire,right_only
+586,,North Hertfordshire,right_only
+587,,North Kesteven,right_only
+588,,North Lincolnshire,right_only
+589,,North Norfolk,right_only
+590,,North Somerset,right_only
+591,,North Tyneside,right_only
+592,,North Warwickshire,right_only
+593,,North West Leicestershire,right_only
+594,,Northampton,right_only
+595,Northampton North,,left_only
+596,Northampton South,,left_only
+597,Northamptonshire South ,,left_only
+598,,Northumberland,right_only
+599,,Norwich,right_only
+600,Norwich North,,left_only
+601,Norwich South,,left_only
+602,,Nottingham,right_only
+603,Nottingham East,,left_only
+604,Nottingham North,,left_only
+605,Nottingham South,,left_only
+606,Nuneaton,,left_only
+607,,Nuneaton and Bedworth,right_only
+608,,Oadby and Wigston,right_only
+609,Ochil & South Perthshire,,left_only
+611,Old Bexley & Sidcup,,left_only
+612,,Oldham,right_only
+613,Oldham East & Saddleworth,,left_only
+614,Oldham West & Royton,,left_only
+615,Orkney & Shetland,,left_only
+616,,Orkney Islands,right_only
+617,Orpington,,left_only
+618,,Oxford,right_only
+619,Oxford East,,left_only
+620,Oxford West & Abingdon,,left_only
+621,,Paisley,right_only
+622,Paisley & Renfrewshire North,,left_only
+623,Paisley & Renfrewshire South,,left_only
+625,Penistone & Stocksbridge,,left_only
+626,Penrith & The Border,,left_only
+627,Perth & North Perthshire,,left_only
+628,,Perthshire North,right_only
+629,,Perthshire South and Kinrossshire,right_only
+631,,Plymouth,right_only
+632,Plymouth Moor View,,left_only
+633,Plymouth Sutton & Devonport,,left_only
+636,Poplar & Limehouse,,left_only
+637,,Portsmouth,right_only
+638,Portsmouth North,,left_only
+639,Portsmouth South,,left_only
+642,Pudsey,,left_only
+643,,Purbeck,right_only
+644,Putney,,left_only
+645,Rayleigh & Wickford,,left_only
+646,,Reading,right_only
+647,Reading East,,left_only
+648,Reading West,,left_only
+649,,Redbridge,right_only
+650,Redcar,,left_only
+651,,Redcar and Cleveland,right_only
+653,Reigate,,left_only
+654,,Reigate and Banstead,right_only
+655,Renfrewshire East,,left_only
+656,,Renfrewshire North and West,right_only
+657,,Renfrewshire South,right_only
+660,Richmond (Yorks),,left_only
+661,Richmond Park,,left_only
+662,,Richmond upon Thames,right_only
+663,,Richmondshire,right_only
+665,Rochester & Strood,,left_only
+666,,Rochford,right_only
+667,Rochford & Southend East,,left_only
+668,Romford,,left_only
+669,Romsey & Southampton North,,left_only
+670,"Ross, Skye & Lochaber",,left_only
+671,,Rossendale,right_only
+672,Rossendale & Darwen,,left_only
+673,,Rother,right_only
+674,Rother Valley,,left_only
+677,"Ruislip, Northwood & Pinner",,left_only
+678,,Runnymede,right_only
+679,Runnymede & Weybridge,,left_only
+681,,Rushmoor,right_only
+682,,Rutherglen,right_only
+683,Rutherglen & Hamilton West,,left_only
+684,,Rutland,right_only
+685,Rutland & Melton,,left_only
+686,,Ryedale,right_only
+687,Saffron Walden,,left_only
+688,,Salford,right_only
+689,Salford & Eccles,,left_only
+690,Salisbury,,left_only
+691,,Sandwell,right_only
+692,,Scarborough,right_only
+693,Scarborough & Whitby,,left_only
+694,Scunthorpe,,left_only
+695,Sedgefield,,left_only
+696,,Sedgemoor,right_only
+697,,Sefton,right_only
+698,Sefton Central,,left_only
+699,,Selby,right_only
+700,Selby & Ainsty,,left_only
+702,,Sheffield,right_only
+703,Sheffield Brightside & Hillsborough,,left_only
+704,Sheffield Central,,left_only
+705,Sheffield Hallam,,left_only
+706,Sheffield Heeley,,left_only
+707,Sheffield South East,,left_only
+708,,Shepway,right_only
+709,Sherwood,,left_only
+710,,Shetland Islands,right_only
+711,Shipley,,left_only
+712,Shrewsbury & Atcham,,left_only
+713,,Shropshire,right_only
+714,Shropshire North,,left_only
+715,Sittingbourne & Sheppey,,left_only
+716,Skipton & Ripon,,left_only
+717,,"Skye, Lochaber and Badenoch",right_only
+718,Sleaford & North Hykeham,,left_only
+721,Somerset North,,left_only
+722,Somerset North East,,left_only
+723,Somerton & Frome,,left_only
+724,,South Bucks,right_only
+725,,South Cambridgeshire,right_only
+726,,South Derbyshire,right_only
+727,,South Gloucestershire,right_only
+728,,South Hams,right_only
+729,,South Holland,right_only
+730,South Holland & The Deepings,,left_only
+731,,South Kesteven,right_only
+732,,South Lakeland,right_only
+733,,South Norfolk,right_only
+734,,South Northamptonshire,right_only
+735,,South Oxfordshire,right_only
+737,South Shields,,left_only
+738,,South Somerset,right_only
+739,,South Staffordshire,right_only
+740,,South Tyneside,right_only
+741,,Southampton,right_only
+742,Southampton Itchen,,left_only
+743,Southampton Test,,left_only
+744,Southend West,,left_only
+745,,Southend-on-Sea,right_only
+746,Southport,,left_only
+747,,Southwark,right_only
+750,St Austell & Newquay,,left_only
+751,,St Edmundsbury,right_only
+752,,St Helens,right_only
+753,St Helens North,,left_only
+754,St Helens South & Whiston,,left_only
+755,St Ives,,left_only
+758,Staffordshire South,,left_only
+759,Stalybridge & Hyde,,left_only
+763,Stockton North,,left_only
+764,Stockton South,,left_only
+765,,Stockton-on-Tees,right_only
+766,,Stoke-on-Trent,right_only
+767,Stoke-on-Trent Central,,left_only
+768,Stoke-on-Trent North,,left_only
+769,Stoke-on-Trent South,,left_only
+770,Stone,,left_only
+771,Stourbridge,,left_only
+773,,Strathkelvin and Bearsden,right_only
+774,Streatham,,left_only
+775,Stretford & Urmston,,left_only
+777,Suffolk Central & Ipswich North,,left_only
+779,Suffolk South,,left_only
+780,Suffolk West,,left_only
+781,,Sunderland,right_only
+782,Sunderland Central,,left_only
+783,Surrey East,,left_only
+785,Surrey South West,,left_only
+786,Sussex Mid,,left_only
+787,,Sutton,right_only
+788,Sutton & Cheam,,left_only
+789,Sutton Coldfield,,left_only
+790,,Swale,right_only
+793,,Swindon,right_only
+794,Swindon North,,left_only
+795,Swindon South,,left_only
+796,,Tameside,right_only
+798,,Tandridge,right_only
+799,Tatton,,left_only
+801,,Teignbridge,right_only
+802,Telford,,left_only
+803,,Telford and Wrekin,right_only
+804,,Tendring,right_only
+805,,Test Valley,right_only
+807,,Thanet,right_only
+808,Thanet North,,left_only
+809,Thanet South,,left_only
+810,Thirsk & Malton,,left_only
+811,Thornbury & Yate,,left_only
+812,,Three Rivers,right_only
+814,Tiverton & Honiton,,left_only
+815,Tonbridge & Malling,,left_only
+816,,Tonbridge and Malling,right_only
+817,Tooting,,left_only
+820,,Torridge,right_only
+821,Totnes,,left_only
+822,Tottenham,,left_only
+823,,Tower Hamlets,right_only
+824,,Trafford,right_only
+825,Truro & Falmouth,,left_only
+827,Twickenham,,left_only
+828,Tynemouth,,left_only
+829,Tyneside North,,left_only
+830,,Uddingston and Bellshill,right_only
+831,,Uttlesford,right_only
+832,Uxbridge & Ruislip South,,left_only
+835,,Vale of White Horse,right_only
+836,Vauxhall,,left_only
+838,Wallasey,,left_only
+839,,Walsall,right_only
+840,Walsall North,,left_only
+841,Walsall South,,left_only
+842,,Waltham Forest,right_only
+843,Walthamstow,,left_only
+844,,Wandsworth,right_only
+845,Wansbeck,,left_only
+846,Wantage,,left_only
+847,Warley,,left_only
+848,,Warrington,right_only
+849,Warrington North,,left_only
+850,Warrington South,,left_only
+851,,Warwick,right_only
+852,Warwick & Leamington,,left_only
+853,Warwickshire North,,left_only
+854,Washington & Sunderland West,,left_only
+857,,Waverley,right_only
+859,Weaver Vale,,left_only
+861,Wells,,left_only
+863,Wentworth & Dearne,,left_only
+864,,West Berkshire,right_only
+865,West Bromwich East,,left_only
+866,West Bromwich West,,left_only
+867,,West Devon,right_only
+868,,West Dorset,right_only
+869,West Ham,,left_only
+870,,West Lancashire,right_only
+871,,West Lindsey,right_only
+872,,West Oxfordshire,right_only
+873,,West Somerset,right_only
+874,,Westminster,right_only
+875,Westminster North,,left_only
+876,Westmorland & Lonsdale,,left_only
+877,Weston-Super-Mare,,left_only
+878,,Weymouth and Portland,right_only
+880,,Wiltshire,right_only
+881,Wiltshire North,,left_only
+882,Wiltshire South West,,left_only
+883,Wimbledon,,left_only
+885,Windsor,,left_only
+886,,Windsor and Maidenhead,right_only
+887,,Wirral,right_only
+888,Wirral South,,left_only
+889,Wirral West,,left_only
+890,Witham,,left_only
+891,Witney,,left_only
+894,,Wolverhampton,right_only
+895,Wolverhampton North East,,left_only
+896,Wolverhampton South East,,left_only
+897,Wolverhampton South West,,left_only
+899,Worcestershire Mid,,left_only
+900,Worcestershire West,,left_only
+901,Workington,,left_only
+902,Worsley & Eccles South,,left_only
+903,,Worthing,right_only
+904,Worthing East & Shoreham,,left_only
+905,Worthing West,,left_only
+906,"Wrekin, The",,left_only
+908,,Wychavon,right_only
+910,,Wyre,right_only
+911,Wyre & Preston North,,left_only
+913,Wythenshawe & Sale East,,left_only
+914,Yeovil,,left_only
+915,,Ynys M n,right_only
+916,Ynys Mon,,left_only
+917,,York,right_only
+918,York Central,,left_only
+919,York Outer,,left_only
+920,Yorkshire East,,left_only
