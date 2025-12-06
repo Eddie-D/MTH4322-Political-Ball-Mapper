@@ -1,0 +1,440 @@
+Areas,Percentage Yes,Percentage No,Percentage Turnout
+Adur,28.5,71.5,39.8
+Allerdale,25.4,74.6,45.0
+Amber Valley,29.5,70.5,43.7
+Arun,23.8,76.2,44.4
+Ashfield,26.3,73.7,38.6
+Ashford,26.9,73.1,44.9
+Aylesbury Vale,30.2,69.8,45.5
+Babergh,29.2,70.8,46.7
+Barking and Dagenham,29.7,70.3,27.7
+Barnet,35.2,64.8,38.9
+Barnsley,25.5,74.5,35.6
+Barrow-in-Furness,24.1,75.9,36.0
+Basildon,23.5,76.5,34.9
+Basingstoke and Deane,27.7,72.3,43.5
+Bassetlaw,24.9,75.1,41.7
+Bath and North East Somerset,38.2,61.8,48.7
+Bedford,30.8,69.2,47.0
+Bexley,23.5,76.5,37.4
+Birmingham,35.7,64.3,36.6
+Blaby,26.0,74.0,41.8
+Blackburn with Darwen,27.7,72.3,40.8
+Blackpool,25.8,74.2,36.7
+Bolsover,25.9,74.1,39.5
+Bolton,28.2,71.8,37.8
+Boston,22.9,77.1,39.6
+Bournemouth,29.5,70.5,35.9
+Bracknell Forest,28.7,71.3,41.0
+Bradford,32.8,67.2,39.7
+Braintree,24.8,75.2,43.0
+Breckland,24.7,75.3,42.1
+Brent,45.2,54.8,30.8
+Brentwood,24.2,75.8,46.1
+Brighton and Hove,49.9,50.1,45.2
+Bristol,44.7,55.3,41.5
+Broadland,27.0,73.0,46.9
+Bromley,28.7,71.3,41.2
+Bromsgrove,25.9,74.1,44.6
+Broxbourne,20.5,79.5,36.2
+Broxtowe,31.3,68.7,48.1
+Burnley,27.2,72.8,38.8
+Bury,27.2,72.8,40.7
+Calderdale,31.0,69.0,40.7
+Cambridge,54.3,45.7,48.1
+Camden,51.4,48.6,37.3
+Cannock Chase,22.7,77.3,32.9
+Canterbury,33.4,66.6,44.2
+Carlisle,31.1,68.9,39.5
+Castle Point,20.3,79.7,41.2
+Central Bedfordshire,27.1,72.9,41.9
+Charnwood,29.3,70.7,42.2
+Chelmsford,28.6,71.4,44.3
+Cheltenham,36.4,63.6,41.3
+Cherwell,29.5,70.5,43.4
+Cheshire East,27.3,72.7,42.9
+Cheshire West and Chester,27.9,72.1,42.9
+Chesterfield,29.9,70.1,42.9
+Chichester,26.2,73.8,46.3
+Chiltern,24.6,75.4,51.5
+Chorley,25.5,74.5,42.4
+Christchurch,23.4,76.6,49.4
+City of London,46.4,53.6,42.5
+Colchester,34.2,65.8,42.1
+Copeland,25.0,75.0,40.8
+Corby,28.2,71.8,42.8
+Cornwall,30.3,69.7,40.1
+Cotswold,28.0,72.0,50.4
+Coventry,33.0,67.0,37.4
+Craven,29.5,70.5,46.7
+Crawley,28.3,71.7,39.2
+Croydon,33.0,67.0,35.8
+Dacorum,30.2,69.8,44.8
+Darlington,28.3,71.7,41.5
+Dartford,25.3,74.7,41.2
+Daventry,24.8,75.2,45.9
+Derby,30.1,69.9,39.1
+Derbyshire Dales,29.6,70.4,52.0
+Doncaster,26.5,73.5,36.5
+Dover,26.5,73.5,45.1
+Dudley,23.6,76.4,38.2
+Durham,28.8,71.2,34.9
+Ealing,43.3,56.7,36.1
+East Cambridgeshire,31.0,69.0,43.7
+East Devon,28.8,71.2,49.9
+East Dorset,23.1,76.9,49.2
+East Hampshire,26.3,73.7,48.2
+East Hertfordshire,27.5,72.5,45.2
+East Lindsey,23.7,76.3,42.4
+East Northamptonshire,24.3,75.7,43.7
+East Riding of Yorkshire,26.1,73.9,42.0
+East Staffordshire,25.2,74.8,43.4
+Eastbourne,30.4,69.6,44.4
+Eastleigh,30.9,69.1,43.9
+Eden,28.7,71.3,45.1
+Elmbridge,26.6,73.4,43.8
+Enfield,34.0,66.0,35.3
+Epping Forest,23.2,76.8,38.4
+Epsom and Ewell,29.0,71.0,45.9
+Erewash,25.6,74.4,43.0
+Exeter,39.0,61.0,43.4
+Fareham,24.7,75.3,45.3
+Fenland,23.1,76.9,38.8
+Forest Heath,23.6,76.4,37.7
+Forest of Dean,29.6,70.4,45.5
+Fylde,23.6,76.4,44.4
+Gateshead,26.8,73.2,41.3
+Gedling,28.6,71.4,44.7
+Gloucester,28.7,71.3,39.5
+Gosport,23.3,76.7,37.6
+Gravesham,27.3,72.7,43.1
+Great Yarmouth,24.8,75.2,36.6
+Greenwich,39.2,60.8,33.2
+Guildford,31.0,69.0,48.2
+Hackney,60.7,39.3,34.1
+Halton,28.1,71.9,33.9
+Hambleton,35.0,65.0,46.0
+Hammersmith and Fulham,40.9,59.1,37.7
+Harborough,25.7,74.3,48.0
+Haringey,56.6,43.4,35.6
+Harlow,26.4,73.6,37.4
+Harrogate,29.9,70.1,46.4
+Harrow,33.9,66.1,37.8
+Hart,31.0,69.0,46.6
+Hartlepool,23.1,76.9,31.3
+Hastings,32.5,67.5,36.7
+Havant,23.0,77.0,38.8
+Havering,22.7,77.3,35.9
+Herefordshire,29.6,70.4,46.0
+Hertsmere,23.5,76.5,39.8
+High Peak,32.6,67.4,44.7
+Hillingdon,29.3,70.7,34.0
+Hinckley and Bosworth,26.5,73.5,43.9
+Horsham,30.7,69.3,47.8
+Hounslow,39.2,60.8,32.8
+Huntingdonshire,28.1,71.9,44.2
+Hyndburn,25.6,74.4,39.8
+Ipswich,30.1,69.9,39.2
+Isle of Wight,25.6,74.4,40.1
+Isles of Scilly,34.7,65.3,47.8
+Islington,56.9,43.1,35.7
+Kensington and Chelsea,32.3,67.7,34.3
+Kettering,25.3,74.7,42.9
+King's Lynn and West Norfolk,24.5,75.5,42.4
+Kingston upon Hull,30.6,69.4,31.4
+Kingston upon Thames,39.5,60.5,42.8
+Kirklees,33.1,66.9,42.1
+Knowsley,31.3,68.7,32.7
+Lambeth,54.7,45.3,33.1
+Lancaster,32.1,67.9,38.8
+Leeds,34.4,65.6,38.3
+Leicester,42.9,57.1,41.0
+Lewes,34.6,65.4,48.9
+Lewisham,49.3,50.7,33.1
+Lichfield,23.7,76.3,42.8
+Lincoln,30.2,69.8,36.7
+Liverpool,36.4,63.6,35.9
+Luton,31.4,68.6,39.4
+Maidstone,25.8,74.2,42.3
+Maldon,24.1,75.9,43.2
+Malvern Hills,29.9,70.1,47.5
+Manchester,44.5,55.5,31.5
+Mansfield,28.2,71.8,37.9
+Medway,25.7,74.3,39.5
+Melton,26.8,73.2,44.4
+Mendip,34.7,65.3,49.6
+Merton,35.4,64.6,39.8
+Mid Devon,31.1,68.9,47.4
+Mid Suffolk,28.3,71.7,48.0
+Mid Sussex,31.7,68.3,47.7
+Middlesbrough,28.8,71.2,35.7
+Milton Keynes,31.8,68.2,41.1
+Mole Valley,27.8,72.2,52.8
+New Forest,25.3,74.7,44.6
+Newark and Sherwood,27.0,73.0,44.8
+Newcastle upon Tyne,35.8,64.2,40.8
+Newcastle-under-Lyme,27.0,73.0,36.0
+Newham,43.7,56.3,27.2
+North Devon,30.6,69.4,45.7
+North Dorset,28.6,71.4,49.0
+North East Derbyshire,26.0,74.0,42.5
+North East Lincolnshire,24.5,75.5,34.0
+North Hertfordshire,30.9,69.1,45.9
+North Kesteven,22.4,77.6,42.8
+North Lincolnshire,25.8,74.2,39.3
+North Norfolk,29.2,70.8,49.7
+North Somerset,31.4,68.6,45.9
+North Tyneside,25.3,74.7,41.8
+North Warwickshire,23.0,77.0,43.6
+North West Leicestershire,23.4,76.6,45.2
+Northampton,30.1,69.9,39.5
+Northumberland,27.3,72.7,40.8
+Norwich,45.5,54.5,40.9
+Nottingham,37.4,62.6,35.4
+Nuneaton and Bedworth,29.0,71.0,36.1
+Oadby and Wigston,29.3,70.7,42.8
+Oldham,28.6,71.4,37.3
+Oxford,54.1,45.9,39.0
+Pendle,24.7,75.3,43.2
+Peterborough,32.1,67.9,40.6
+Plymouth,28.9,71.1,38.7
+Poole,27.8,72.2,42.5
+Portsmouth,32.5,67.5,35.7
+Preston,31.2,68.8,38.1
+Purbeck,28.1,71.9,48.8
+Reading,39.0,61.0,41.7
+Redbridge,32.5,67.5,32.8
+Redcar and Cleveland,26.6,73.4,41.4
+Redditch,26.7,73.3,37.7
+Reigate and Banstead,27.8,72.2,43.1
+Ribble Valley,24.8,75.2,44.7
+Richmond upon Thames,40.9,59.1,47.1
+Richmondshire,25.4,74.6,46.7
+Rochdale,29.0,71.0,35.9
+Rochford,20.9,79.1,40.9
+Rossendale,27.0,73.0,37.9
+Rother,25.7,74.3,48.0
+Rotherham,29.4,70.6,38.7
+Rugby,27.0,73.0,44.9
+Runnymede,27.1,72.9,39.7
+Rushcliffe,32.1,67.9,51.6
+Rushmoor,29.7,70.3,38.8
+Rutland,27.5,72.5,49.0
+Ryedale,26.5,73.5,45.4
+Salford,30.8,69.2,32.9
+Sandwell,28.6,71.4,35.0
+Scarborough,30.2,69.8,39.7
+Sedgemoor,30.5,69.5,41.7
+Sefton,29.5,70.5,38.9
+Selby,25.3,74.7,44.0
+Sevenoaks,24.8,75.2,46.1
+Sheffield,38.3,61.7,41.4
+Shepway,26.8,73.2,41.8
+Shropshire,28.4,71.6,42.1
+Slough,38.1,61.9,37.1
+Solihull,23.9,76.1,41.1
+South Bucks,23.3,76.7,42.7
+South Cambridgeshire,34.7,65.3,49.3
+South Derbyshire,24.2,75.8,43.3
+South Gloucestershire,29.5,70.5,46.0
+South Hams,32.8,67.2,51.0
+South Holland,21.4,78.6,39.8
+South Kesteven,25.9,74.1,42.5
+South Lakeland,32.6,67.4,50.1
+South Norfolk,29.2,70.8,47.2
+South Northamptonshire,28.4,71.6,47.9
+South Oxfordshire,30.6,69.4,48.4
+South Ribble,25.7,74.3,39.9
+South Somerset,30.4,69.6,48.5
+South Staffordshire,20.9,79.1,41.1
+South Tyneside,28.1,71.9,38.9
+Southampton,37.0,63.0,37.8
+Southend-on-Sea,28.2,71.8,38.1
+Southwark,52.7,47.3,34.3
+Spelthorne,26.0,74.0,41.9
+St Albans,36.1,63.9,51.6
+St Edmundsbury,28.5,71.5,42.5
+St Helens,28.5,71.5,37.6
+Stafford,26.2,73.8,46.0
+Staffordshire Moorlands,24.0,76.0,41.6
+Stevenage,29.0,71.0,41.6
+Stockport,33.3,66.7,41.4
+Stockton-on-Tees,25.4,74.6,38.7
+Stoke-on-Trent,27.7,72.3,30.8
+Stratford-on-Avon,25.6,74.4,49.9
+Stroud,34.8,65.2,49.0
+Suffolk Coastal,28.6,71.4,49.6
+Sunderland,26.6,73.4,37.6
+Surrey Heath,24.7,75.3,45.6
+Sutton,32.6,67.4,38.8
+Swale,25.0,75.0,40.5
+Swindon,30.1,69.9,38.9
+Tameside,27.7,72.3,35.6
+Tamworth,22.7,77.3,36.8
+Tandridge,28.7,71.3,47.4
+Taunton Deane,32.0,68.0,46.9
+Teignbridge,31.2,68.8,47.6
+Telford and Wrekin,28.0,72.0,41.9
+Tendring,29.0,71.0,43.7
+Test Valley,27.3,72.7,48.1
+Tewkesbury,27.4,72.6,45.8
+Thanet,26.2,73.8,41.9
+Three Rivers,27.8,72.2,44.1
+Thurrock,24.8,75.2,34.6
+Tonbridge and Malling,25.0,75.0,44.8
+Torbay,28.5,71.5,41.4
+Torridge,30.1,69.9,45.6
+Tower Hamlets,45.8,54.2,28.9
+Trafford,31.8,68.2,42.4
+Tunbridge Wells,30.0,70.0,45.8
+Uttlesford,26.1,73.9,49.2
+Vale of White Horse,32.6,67.4,49.0
+Wakefield,29.2,70.8,35.4
+Walsall,25.9,74.1,37.4
+Waltham Forest,41.6,58.4,33.7
+Wandsworth,39.2,60.8,37.0
+Warrington,32.1,67.9,39.1
+Warwick,33.7,66.3,50.1
+Watford,35.5,64.5,41.3
+Waveney,26.3,73.7,42.9
+Waverley,27.4,72.6,51.6
+Wealden,26.0,74.0,47.8
+Wellingborough,26.0,74.0,45.4
+Welwyn Hatfield,27.4,72.6,42.7
+West Berkshire,28.5,71.5,48.5
+West Devon,31.2,68.8,50.8
+West Dorset,32.5,67.5,53.1
+West Lancashire,27.2,72.8,39.7
+West Lindsey,26.4,73.6,43.5
+West Oxfordshire,28.7,71.3,48.1
+West Somerset,25.9,74.1,50.4
+Westminster,38.1,61.9,31.4
+Weymouth and Portland,32.0,68.0,43.1
+Wigan,39.0,61.0,33.4
+Wiltshire,28.8,71.2,45.5
+Winchester,31.4,68.6,53.9
+Windsor and Maidenhead,26.3,73.7,48.3
+Wirral,28.1,71.9,42.8
+Woking,30.8,69.2,48.8
+Wokingham,28.9,71.1,47.1
+Wolverhampton,28.3,71.7,38.0
+Worcester,32.2,67.8,40.6
+Worthing,30.4,69.6,39.6
+Wychavon,25.9,74.1,48.0
+Wycombe,30.4,69.6,45.7
+Wyre,23.3,76.7,44.1
+Wyre Forest,26.1,73.9,40.4
+York,37.8,62.2,44.0
+Aberdeen Central,42.9,57.1,45.3
+Aberdeen Donside,34.4,65.6,47.7
+Aberdeen South and North Kincardine,35.4,64.6,52.4
+Aberdeenshire East,34.6,65.4,52.3
+Aberdeenshire West,35.9,64.1,53.0
+Airdrie and Shotts,33.2,66.8,46.4
+Almond Valley,37.8,62.2,51.4
+Angus North and Mearns,32.0,68.0,47.8
+Angus South,30.9,69.1,50.0
+Argyll and Bute,36.5,63.5,53.4
+Ayr,30.9,69.1,54.0
+Banffshire and Buchan Coast,29.1,70.9,46.5
+"Caithness, Sutherland and Ross",36.7,63.3,51.8
+"Carrick, Cumnock and Doon Valley",29.4,70.6,48.1
+Clackmannanshire and Dunblane,36.9,63.1,55.6
+Clydebank and Milngavie,38.1,61.9,53.3
+Clydesdale,34.0,66.0,52.5
+Coatbridge and Chryston,35.3,64.7,45.3
+Cowdenbeath,33.2,66.8,46.7
+Cumbernauld and Kilsyth,35.6,64.4,52.1
+Cunninghame North,34.0,66.0,52.0
+Cunninghame South,32.8,67.2,43.0
+Dumbarton,34.2,65.8,53.2
+Dumfriesshire,29.1,70.9,53.5
+Dundee City East,35.3,64.7,48.0
+Dundee City West,37.2,62.8,45.8
+Dunfermline,34.8,65.2,52.6
+East Kilbride,35.6,64.4,51.2
+East Lothian,35.3,64.7,57.0
+Eastwood,34.4,65.6,63.0
+Edinburgh Central,51.4,48.6,55.4
+Edinburgh Eastern,40.3,59.7,55.5
+Edinburgh Northern and Leith,49.9,50.1,53.7
+Edinburgh Pentlands,35.7,64.3,57.8
+Edinburgh South,50.0,50.0,62.2
+Edinburgh West,37.5,62.5,59.6
+"Ettrick, Roxburgh and Berwickshire",30.7,69.3,53.3
+Falkirk East,31.8,68.2,49.9
+Falkirk West,33.5,66.5,50.7
+Galloway and West Dumfries,30.4,69.6,53.0
+Glasgow Anniesland,41.4,58.6,43.4
+Glasgow Cathcart,43.0,57.0,44.9
+Glasgow Kelvin,58.8,41.2,40.5
+Glasgow Maryhill and Springburn,47.6,52.4,36.5
+Glasgow Pollok,36.4,63.6,39.4
+Glasgow Provan,40.1,59.9,34.9
+Glasgow Shettleston,35.9,64.1,38.2
+Glasgow Southside,49.7,50.3,43.3
+Greenock and Inverclyde,34.1,65.9,49.2
+"Hamilton, Larkhall and Stonehouse",40.5,59.5,45.2
+Inverness and Nairn,36.3,63.7,52.9
+Kilmarnock and Irvine Valley,31.1,68.9,50.2
+Kirkcaldy,32.0,68.0,46.3
+Linlithgow,33.9,66.1,52.7
+Mid Fife and Glenrothes,31.0,69.0,48.5
+Midlothian North and Musselburgh,34.7,65.3,51.1
+"Midlothian South, Tweeddale and Lauderdale",39.5,60.5,55.3
+Moray,35.4,64.6,50.8
+Motherwell and Wishaw,33.7,66.3,45.5
+Na h-Eileanan an Iar,32.0,68.0,59.3
+North East Fife,40.1,59.9,50.8
+Orkney Islands,39.8,60.2,48.9
+Paisley,34.7,65.3,49.6
+Perthshire North,31.7,68.3,56.6
+Perthshire South and Kinrossshire,35.1,64.9,54.1
+Renfrewshire North and West,33.3,66.7,55.9
+Renfrewshire South,33.3,66.7,53.5
+Rutherglen,35.3,64.7,46.8
+Shetland Islands,44.8,55.2,53.2
+"Skye, Lochaber and Badenoch",39.7,60.3,56.1
+Stirling,37.6,62.4,58.2
+Strathkelvin and Bearsden,35.1,64.9,56.7
+Uddingston and Bellshill,33.5,66.5,44.9
+Aberavon,35.7,64.3,36.7
+Aberconwy,31.0,69.0,45.2
+Alyn and Deeside,30.4,69.6,37.2
+Arfon,43.7,56.3,43.2
+Blaenau Gwent,32.8,67.2,37.6
+Brecon and Radnorshire,36.7,63.3,52.9
+Bridgend,32.5,67.5,40.7
+Caerphilly,34.7,65.3,40.9
+Cardiff Central,45.7,54.3,37.4
+Cardiff North,35.1,64.9,51.6
+Cardiff South and Penarth,38.9,61.1,37.0
+Cardiff West,41.2,58.8,43.2
+Carmarthen East and Dinefwr,34.1,65.9,51.3
+Carmarthen West and South Pembrokeshire,31.0,69.0,48.0
+Ceredigion,40.0,60.0,51.3
+Clwyd South,33.1,66.9,37.0
+Clwyd West,30.2,69.8,43.2
+Cynon Valley,36.9,63.1,35.6
+Delyn,30.8,69.2,43.3
+Dwyfor Meirionnydd,35.9,64.1,46.5
+Gower,34.7,65.3,43.2
+Ynys M n,31.4,68.6,48.7
+Islwyn,32.0,68.0,37.8
+Llanelli,33.7,66.3,44.3
+Merthyr Tydfil and Rhymney,36.0,64.0,35.1
+Monmouth,30.7,69.3,46.6
+Montgomeryshire,35.6,64.4,47.4
+Neath,35.0,65.0,41.3
+Newport East,32.4,67.6,35.4
+Newport West,31.8,68.2,36.7
+Ogmore,34.4,65.6,36.4
+Pontypridd,36.4,63.6,38.7
+Preseli Pembrokeshire,32.0,68.0,47.1
+Rhondda,36.5,63.5,37.6
+Swansea East,35.1,64.9,31.2
+Swansea West,38.6,61.4,35.1
+Torfaen,33.4,66.6,36.3
+Vale of Clwyd,31.0,69.0,40.9
+Vale of Glamorgan,31.0,69.0,46.9
+Wrexham,32.1,67.9,36.1

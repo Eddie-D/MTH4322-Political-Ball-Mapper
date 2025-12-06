@@ -3,7 +3,7 @@ import pandas as pd
 pd.set_option('display.max_rows', None)
 
 ge = pd.read_csv("GE2010-Formatted.csv")
-av = pd.read_csv("./Alternate-Vote.csv")
+av = pd.read_csv("./AV-Formatted.csv")
 l = len(ge)
 
 df = pd.merge(
@@ -14,6 +14,9 @@ df = pd.merge(
     how="inner",
     indicator=True
 )
+
+# https://www.youtube.com/watch?v=bC6tngl0PTI
+df.rename(columns={"Con": "Cons"}, inplace=True)
 
 # Filter for rows that are NOT in both tables
 # mismatches_df = df[df['_merge'] != 'both']

@@ -1,5 +1,4 @@
 import pandas as pd
-import math
 
 df = pd.read_csv("./GE2010-results.csv")
 pd.set_option('display.max_rows', None)
@@ -9,7 +8,7 @@ oldLen = len(df)
 df = (df[df["Region"] != "Northern Ireland"])
 print(f"Removed: {oldLen - len(df)} constituencies")
 
-keepColumns = ["Press Association Reference", "Constituency Name", "Region", "Election Year", "Electorate", "Votes", "Con", "Lab", "LD"]
+keepColumns = ["Name", "Region", "Votes", "Con", "Lab", "LD"]
 
 # Frame to sum
 sf = df.drop(keepColumns, axis=1)
