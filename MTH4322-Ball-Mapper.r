@@ -3,7 +3,7 @@ library("magick")
 
 # Read in data
 setwd(".")
-pts <- read.csv("./Regional-Referendum-Data.csv")
+pts <- read.csv("./Data/all.csv")
 
 # Make names valid identifiers (replaces spaces with dots)
 names(pts) <- make.names(names(pts))
@@ -25,8 +25,9 @@ barplot(pts$Agree,
 # Normalise all but the string column (regions)
 
 # Extract the parties
-party_names = c("Agree", "Labour", "Conservative", "Liberal.Democrat", "Plaid.Cymru")
+party_names <- c("Percentage.Yes", "Cons", "Lab", "LD")
 # Create image directories
+
 lapply(party_names, dir.create)
 party_data <- pts[party_names]
 party_data <- normalize_to_min_0_max_1(party_data)
@@ -61,8 +62,7 @@ plot_for_epsilon <- function(e, p) {
 
 # Recreate graphs with values of epsilon
 # graph <- plot_for_epsilon(63, "Conservative")
-# graphs <- lapply(party_names, plot_for_epsilon, e = 63)
-
+graphs <- lapply(party_names, plot_for_epsilon, e = 26)
 
 
 # FULL BALL MAPPER ANALYSIS -----------------------------------------------
