@@ -25,7 +25,7 @@ barplot(pts$Agree,
 # Normalise all but the string column (regions)
 
 # Extract the parties
-party_names <- c("Percentage.Yes", "Cons", "Lab", "LD")
+party_names <- c("Percentage.Yes", "Cons", "Lab", "LD", "Other")
 # Create image directories
 
 lapply(party_names, dir.create)
@@ -62,7 +62,7 @@ plot_for_epsilon <- function(e, p) {
 
 # Recreate graphs with values of epsilon
 # graph <- plot_for_epsilon(63, "Conservative")
-graphs <- lapply(party_names, plot_for_epsilon, e = 26)
+graphs <- lapply(party_names, plot_for_epsilon, e = 550000)
 
 
 # FULL BALL MAPPER ANALYSIS -----------------------------------------------
