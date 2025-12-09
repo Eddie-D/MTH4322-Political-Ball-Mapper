@@ -9,16 +9,16 @@ pts <- read.csv("./Data/all.csv")
 names(pts) <- make.names(names(pts))
 
 # CONSTITUENCY AGREE CHART -------------------------------------------------
-par(mar = c(5, 10, 4, 2))  # bottom, left, top, right margins
-barplot(pts$Agree,
-        names.arg = pts$Region,
-        main = "Welsh Constituencies and Their Referendum Votes",
-        xlab = "Agree Percentage",
-        col = "skyblue",
-        # Alter region labels to fit
-        horiz = TRUE,
-        las = 1,
-        xlim = c(0, max(pts$Agree) * 1.1)) # extend x-axis by 10%
+# par(mar = c(5, 10, 4, 2))  # bottom, left, top, right margins
+# barplot(pts$Agree,
+#        names.arg = pts$Region,
+#        main = "Welsh Constituencies and Their Referendum Votes",
+#        xlab = "Agree Percentage",
+#        col = "skyblue",
+#        # Alter region labels to fit
+#        horiz = TRUE,
+#        las = 1,
+#        xlim = c(0, max(pts$Agree) * 1.1)) # extend x-axis by 10%
 
 
 # PARTY BALL MAPPER ANALYSIS -----------------------------------------------
@@ -52,7 +52,7 @@ for (p in party_names) {
 }
 
 plot_for_epsilon <- function(e, p) {
-  epsilon <- e / 100
+  epsilon <- e * 10000
   coloring <- pts[p]
   graph <- BallMapper(party_data, coloring, epsilon)
   ColorIgraphPlot(graph, store_in_file = paste0("./", p, "-", e, ".jpg"))
@@ -66,19 +66,21 @@ graphs <- lapply(party_names, plot_for_epsilon, e = 550000)
 
 
 # FULL BALL MAPPER ANALYSIS -----------------------------------------------
-# Extract data barring the regions
-full_pts <- pts[-1]
-full_pts <- normalize_to_min_0_max_1(full_pts)
+# Use all numeric columns from the compiled `all.csv` (excludes constituency name)
+# Normalise and run BallMapper for each column as a colouring
+numeric_cols <- sapply(pts, is.numeric)
+full_pts <- pts[ , numeric_cols]
+full_pts_norm <- normalize_to_min_0_max_1(full_pts)
 
-e <- 110
+e <- 64
 epsilon <- e / 100
-dir.create(paste0("./Full-", e))
-for (col in colnames(full_pts)) {
-    coloring <- full_pts[col]
-    print(coloring)
-    graph <- BallMapper(full_pts, coloring, epsilon)
-    print(graph)
-    ColorIgraphPlot(graph, store_in_file = paste0("./Full-", e, "/", col, ".png"))
-    # coloredDynamicNetwork(graph)
-  }
+dir.create(paste0("./Full-", e), showWarnings = FALSE)
+for (col in colnames(full_pts_norm)) {
+  # colouring must be a one-column data.frame (BallMapper indexes by rows/columns)
+  coloring <- full_pts_norm[col]
+  graph <- BallMapper(as.data.frame(full_pts_norm), coloring, epsilon)
+  # sanitize filename (remove/replace characters that may cause issues)
+  safe_name <- gsub("[^[:alnum:]_.-]", "_", col)
+  ColorIgraphPlot(graph, store_in_file = paste0("./Full-", e, "/", safe_name, ".png"))
+}
 
