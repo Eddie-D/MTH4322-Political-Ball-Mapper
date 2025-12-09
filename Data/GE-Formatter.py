@@ -8,6 +8,10 @@ oldLen = len(df)
 df = (df[df["Region"] != "Northern Ireland"])
 print(f"Removed: {oldLen - len(df)} constituencies")
 
+print(df.columns)
+df = df.drop(["Press Association Reference", "Election Year", "Electorate"], axis=1)
+print(df.columns)
+
 keepColumns = ["Constituency Name", "Region", "Votes", "Con", "Lab", "LD"]
 
 # Frame to sum
@@ -15,6 +19,7 @@ sf = df.drop(keepColumns, axis=1)
 
 df = df[keepColumns]
 df["Other"] = sf.sum(axis=1)
+# print(df["Other"])
 
 # Calculate percentage votes for each party
 party_cols = ["Con", "Lab", "LD", "Other"]
