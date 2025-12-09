@@ -8,11 +8,22 @@ oldLen = len(df)
 df = (df[df["Region"] != "Northern Ireland"])
 print(f"Removed: {oldLen - len(df)} constituencies")
 
-keepColumns = ["Name", "Region", "Votes", "Con", "Lab", "LD"]
+keepColumns = ["Constituency Name", "Region", "Votes", "Con", "Lab", "LD"]
 
 # Frame to sum
 sf = df.drop(keepColumns, axis=1)
 
 df = df[keepColumns]
 df["Other"] = sf.sum(axis=1)
+
+# Calculate percentage votes for each party
+party_cols = ["Con", "Lab", "LD", "Other"]
+for col in party_cols:
+    df[col] = (df[col] / df["Votes"]) * 100
+
+# Rename columns to indicate percentages
+df = df.rename(columns={"Con": "Percentage.Con", "Lab": "Percentage.Lab", "LD": "Percentage.LD", "Other": "Percentage.Other"})
+
+df = df.drop(["Region", "Votes"], axis=1)
+
 df.to_csv("./GE2010-Formatted.csv", index=False)
