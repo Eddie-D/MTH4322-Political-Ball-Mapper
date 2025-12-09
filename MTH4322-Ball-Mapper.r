@@ -66,21 +66,19 @@ graphs <- lapply(party_names, plot_for_epsilon, e = 550000)
 
 
 # FULL BALL MAPPER ANALYSIS -----------------------------------------------
-# Use all numeric columns from the compiled `all.csv` (excludes constituency name)
-# Normalise and run BallMapper for each column as a colouring
+# Extract all numeric columns and normalize
 numeric_cols <- sapply(pts, is.numeric)
-full_pts <- pts[ , numeric_cols]
-full_pts_norm <- normalize_to_min_0_max_1(full_pts)
+full_pts_norm <- normalize_to_min_0_max_1(pts[, numeric_cols])
 
-e <- 64
+e <- 62
 epsilon <- e / 100
 dir.create(paste0("./Full-", e), showWarnings = FALSE)
+
+# Generate colouring images with fixed seed for reproducible layout
 for (col in colnames(full_pts_norm)) {
-  # colouring must be a one-column data.frame (BallMapper indexes by rows/columns)
-  coloring <- full_pts_norm[col]
+  coloring <- full_pts_norm[col, drop = FALSE]
+  set.seed(12345)
   graph <- BallMapper(as.data.frame(full_pts_norm), coloring, epsilon)
-  # sanitize filename (remove/replace characters that may cause issues)
   safe_name <- gsub("[^[:alnum:]_.-]", "_", col)
   ColorIgraphPlot(graph, store_in_file = paste0("./Full-", e, "/", safe_name, ".png"))
 }
-

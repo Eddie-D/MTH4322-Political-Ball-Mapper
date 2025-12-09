@@ -48,7 +48,7 @@ print(f"{l - len(df)} mismatches")
 # Display the mismatches
 # print(mismatches_df)
 
-df = df.drop(labels=["Region", "Areas", "Percentage No", "Percentage Turnout", "_merge", "parliamentary constituency 2010", "All categories", 'Schoolchildren and full-time students: Age 18 and over', 'date', 'geography', 'geography code', 'Rural Urban', 'Age: All usual residents; measures: Value', 'Age: Age 0 to 4; measures: Value', 'Age: Age 5 to 7; measures: Value', 'Age: Age 8 to 9; measures: Value', 'Age: Age 10 to 14; measures: Value', 'Age: Age 15; measures: Value', 'Age: Age 16 to 17; measures: Value', 'Age: Age 18 to 19; measures: Value', 'Age: Age 20 to 24; measures: Value', 'Age: Age 25 to 29; measures: Value', 'Age: Age 30 to 44; measures: Value', 'Age: Age 45 to 59; measures: Value', 'Age: Age 60 to 64; measures: Value', 'Age: Age 65 to 74; measures: Value', 'Age: Age 75 to 84; measures: Value', 'Age: Age 85 to 89; measures: Value', 'Age: Age 90 and over; measures: Value'], axis=1)
+df = df.drop(labels=["Region", "Areas", "Votes", "Percentage No", "Percentage Turnout", "_merge", "parliamentary constituency 2010", "All categories", 'Schoolchildren and full-time students: Age 18 and over', 'date', 'geography', 'geography code', 'Rural Urban', 'Age: All usual residents; measures: Value', 'Age: Age 0 to 4; measures: Value', 'Age: Age 5 to 7; measures: Value', 'Age: Age 8 to 9; measures: Value', 'Age: Age 10 to 14; measures: Value', 'Age: Age 15; measures: Value', 'Age: Age 16 to 17; measures: Value'], axis=1)
 
 print(df)
 print(f"{l - len(df)} mismatches")
