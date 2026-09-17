@@ -1,8 +1,12 @@
 # MTH4322 Ball Mapper
-This project uses the [Topological Data Analysis](https://en.wikipedia.org/wiki/Topological_data_analysis) algorithm, Ball Mapper to analyse political data from [The 1997 Welsh Devolution Referendum](https://en.wikipedia.org/wiki/1997_Welsh_devolution_referendum).
+This project uses the [Topological Data Analysis](https://en.wikipedia.org/wiki/Topological_data_analysis) algorithm, Ball Mapper written in R to analyse political data from [The Alternate Vote Referendum (2011)](https://en.wikipedia.org/wiki/2011_United_Kingdom_Alternative_Vote_referendum) and various Python scripts to combine the data.
+
+The attached paper details the findings.
 
 ### Sources
 The data has been compiled from these sources, all accessed on 01/12/25:
-- [UK Parliamentary Constituencies - 1997](https://www.parlconst.org/constituency-maps/wales/1997)
-- [National Identity by Area and Identity](https://statswales.gov.wales/Catalogue/Equality-and-Diversity/National-Identity/nationalidentity-by-area-identity)
-- [Statistical Report](https://www.walesruralobservatory.org.uk/sites/default/files/statistical%20report1.pdf)
+- [2011 UK Alternative Vote Referendum Results, The Electoral Commission. 2011](https://web.archive.org/web/20111121131020/http://ukreferendumresults.aboutmyvote.co.uk/en/default.aspx)
+- [General Election 2010, House of Commons Library et al.](https://commonslibrary.parliament.uk/research-briefings/rp10-36/)
+- [2011 Census Data Catalogue, Office for National Statistics](https://www.ons.gov.uk/census/2011census/2011censusdata/2011censusdatacatalogue)
+
+### Co-Authored by Edward Doogan, David Ejolffsen, Joshua Lyttle
